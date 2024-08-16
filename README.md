@@ -2,6 +2,8 @@
 
 We talk only about AIs
 
+> npm create social --template-ai-social
+
 ## Current Status
 
 1. AI cost too much, most VC can't affort base AI development
